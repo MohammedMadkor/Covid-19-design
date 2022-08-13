@@ -1,0 +1,152 @@
+.a2 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    cursor: pointer;
+}
+.a1 {
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+.image1 {
+    padding-bottom: 3px;
+    
+}
+.a3 {
+    color: white;
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 25px;
+    /* width: 30px; */
+    /* padding: 15px; */
+    
+}
+.a4 {
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(21, 21, 116);
+}
+.a6 {
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+    margin-bottom: -10px;
+}
+.a5 {
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(21, 21, 116);
+}
+.a7 {
+    font-size: 20px;
+    font-weight: bold;
+}
+.a8 {
+    border-radius: 15px;
+    margin-left: 20px; 
+    padding-left: 15px;
+}
+.a9 {
+    color: blue;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.a10 {
+    font-size: 20px;
+    
+}
+.sec1 {
+    background-image: url(../imgs/3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.navbar1 {
+    position: fixed;
+    width: 100%;
+    margin-top: -55px;
+}
+.a11 {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.a12 {
+    color: rgb(12, 12, 59);
+    font-size: 40px;
+    font-weight: bold;
+}
+.a13 {
+    font-size: 35px;
+}
+.a14 {
+    font-weight: bold;
+}
+.a15 {
+    font-weight: bold;
+    padding: 15px 40px; 
+}
+.q1 {
+    border: 1px solid rgb(173, 172, 169);
+    background-color: white;
+    cursor: pointer;
+    border-radius: 15px;
+}
+li {
+    list-style: none;
+}
+.a16 {
+    color: blue;
+    padding: 0px 40px; 
+}
+
+.a17 {
+    padding-left: 125px;
+}
+.a18 {
+    padding-left: 130px;
+}
+.a19 {
+    padding-left: 143px;
+}
+.a20 {
+    padding-left: 150px;
+
+}
+.a21 {
+    padding-left: 110px;
+}
+.a22 {
+    padding-left: 150px;
+
+}
+.a23 {
+    font-size: 20px;
+}
+.a24 {
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+.a25 {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(20, 20, 75);
+}
+.a26 {
+    font-size: 20px;
+}
+.th1 {
+    width: 25rem;
+    height: 5px;
+    background-color: blueviolet;
+}
+.a27 {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+}
